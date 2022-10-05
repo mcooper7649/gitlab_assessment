@@ -21,10 +21,12 @@ and TIME with appropriate values, and replaces the old MD5 checksum in /var/log/
 current_users file with the new MD5 checksum.
 
 Finally, write a crontab entry that runs these scripts hourly.
-Provide both scripts and the crontab entry for the answer to be complete. 2. A user is complaining that it's taking a long time to load a page on our web application. In your own
-words, write down and discuss the possible cause(s) of the slowness. Also, describe how you would
-begin to troubleshoot this issue.
-Keep the following information about the environment in mind:
+Provide both scripts and the crontab entry for the answer to be complete.
+
+2. A user is complaining that it's taking a long time to load a page on our web application. In your own
+   words, write down and discuss the possible cause(s) of the slowness. Also, describe how you would
+   begin to troubleshoot this issue.
+   Keep the following information about the environment in mind:
 
 ● The web application is written in a modern MVC web framework.
 ● Application data is stored in a relational database.
