@@ -25,6 +25,9 @@ Provide both scripts and the crontab entry for the answer to be complete.
 
 ### Solution Index
 
+[Solution Index URL](https://github.com/mcooper7649/gitlab_assessment/blob/main/Q1-Scripts-Solution-Index.md)
+[Repo](https://github.com/mcooper7649/gitlab_assessment)
+
 ## Question #1
 
 ---
